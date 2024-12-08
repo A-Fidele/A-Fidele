@@ -3,15 +3,15 @@
 Voici un petit tour d'horizon de ce que je fais et ce que j'apporte....</h4>
 
 
-🚀 Ce que je fais
+<h3>🚀 Ce que je fais</h3>
 
-📊 Mes spécialités
+<h4>📊 Mes spécialités</h4>
 
-React & React Native : Pour des interfaces modernes et interactives.
+<p>React & React Native : Pour des interfaces modernes et interactives.
 
 Firebase & Node.js : Des backends robustes pour des applications connectées.
 
-Accessibilité : Inclusivité et expérience utilisateur au cœur de mes projets LudiMuséo.
+Accessibilité : Inclusivité et expérience utilisateur au cœur de mes projets LudiMuséo.</p>
 
 🔧 Mes projets phares
 
