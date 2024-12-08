@@ -1,4 +1,5 @@
-<h2 align="center">Bienvenue sur mon GitHub ! Je suis développeur web et mobile, spécialisé dans la création d'applications performantes et accessibles.
+##Salut, moi c'est Aurélien👋
+<h4 align="center">Bienvenue sur mon GitHub ! Je suis développeur web et mobile, spécialisé dans la création d'applications performantes et accessibles.
 Voici un petit tour d'horizon de ce que je fais et ce que j'apporte....</h2>
 
 
