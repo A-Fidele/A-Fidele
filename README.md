@@ -3,6 +3,8 @@
 Voici un petit tour d'horizon de ce que je fais et ce que j'apporte....</h4>
 </br>
 
+<img src="./assets/React-icon.svg.png" alt="react-icon" width="40" height="40"/>
+
 <h3>🚀 Ce que je fais</h3>
 
 <h4>📊 Mes spécialités</h4>
@@ -14,6 +16,9 @@ Firebase & Node.js : Des backends robustes pour des applications connectées.
 Accessibilité : Inclusivité et expérience utilisateur au cœur de mes projets LudiMuséo.</p>
 
 <h4>🔧 Mes projets phares</h4>
+
+<img src="./assets/logo-ludimuseo.png" alt="ludimuseo" width="40" height="40"/>
+<img src="./assets/logo-dedale.png" alt="dedale" width="40" height="40"/>
 
 <p>Dédale : Une application mobile ludique et éducative pour explorer des lieux culturels, avec un fort accent sur l'accessibilité.
 
