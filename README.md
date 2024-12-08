@@ -20,3 +20,15 @@ Accessibilité : Inclusivité et expérience utilisateur au cœur de mes projets
 App de recettes : Gestion de favoris, portions adaptées, et navigation fluide entre les recettes.
 
 Système e-commerce : Une application web pour gérer des produits et un panier dynamique, déployée sur Vercel.</p>
+
+<h3>📚 Ce qui m'inspire</h3>
+
+<p>L'innovation : Créer des solutions uniques pour répondre à des besoins spécifiques.
+
+L'apprentissage continu : Toujours explorer de nouvelles technologies et améliorer mes compétences.
+
+L'impact positif : Rendre le numérique accessible à tous.</p>
+
+<h3>😎 Fun fact</h3>
+
+<p>Avant d'être développeur, j'ai voyagé entre les tatamis, la sécurité, la plannification, et le management d'équipe – un parcours atypique qui m'aide à garder discipline et focus.</p>
