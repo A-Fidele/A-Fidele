@@ -3,7 +3,7 @@
 Voici un petit tour d'horizon de ce que je fais et ce que j'apporte....</h4>
 </br>
 
-<img src="./assets/React-icon.svg.png" alt="react-icon" width="100" height="100"/>
+<img src="./assets/React-icon.svg.png" alt="react-icon" width="100" height="100"/> <img src="./assets/firebase.png" alt="firebase-icon" width="100" height="100"/> <img src="./assets/expo.png" alt="expo-icon" width="200" height="100"/>
 
 <h3>🚀 Ce que je fais</h3>
 
@@ -17,7 +17,7 @@ Accessibilité : Inclusivité et expérience utilisateur au cœur de mes projets
 
 <h4>🔧 Mes projets phares</h4>
 
-<img src="./assets/logo-ludimuseo.png" alt="ludimuseo" width="150" height="100"/> <img src="./assets/logo-dedale.png" alt="dedale" width="150" height="100"/>
+<img src="./assets/logo-ludimuseo.png" alt="ludimuseo" width="150" height="100"/> <img src="./assets/logo-dedale.png" alt="dedale" width="200" height="100"/>
 
 <p>Dédale : Une application mobile ludique et éducative pour explorer des lieux culturels, avec un fort accent sur l'accessibilité.
 
