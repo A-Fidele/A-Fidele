@@ -3,7 +3,9 @@
 Voici un petit tour d'horizon de ce que je fais et ce que j'apporte....</h4>
 </br>
 
-<img src="./assets/logo-ludimuseo.png" alt="ludimuseo" width="150" height="90"/> <img src="./assets/logo-dedale.png" alt="dedale" width="200" height="90"/>
+<p align="center">
+<img src="./assets/couv.jpg" alt="ludimuseo" width="500" height="280"/> 
+</p>
 
 <h3>🚀 Ce que je fais</h3>
 
