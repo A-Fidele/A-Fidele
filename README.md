@@ -17,8 +17,6 @@ Accessibilité : Inclusivité et expérience utilisateur au cœur de mes projets
 
 <h4>🔧 Mes projets phares</h4>
 
-<img src="./assets/logo-ludimuseo.png" alt="ludimuseo" width="150" height="100"/> <img src="./assets/logo-dedale.png" alt="dedale" width="200" height="100"/>
-
 <p>Dédale : Une application mobile ludique et éducative pour explorer des lieux culturels, avec un fort accent sur l'accessibilité.
 
 App de recettes : Gestion de favoris, portions adaptées, et navigation fluide entre les recettes.
@@ -32,6 +30,11 @@ Système e-commerce : Une application web pour gérer des produits et un panier 
 L'apprentissage continu : Toujours explorer de nouvelles technologies et améliorer mes compétences.
 
 L'impact positif : Rendre le numérique accessible à tous.</p>
+
+##Outil
+
+<code><img src="./assets/logo-ludimuseo.png" alt="ludimuseo" width="40" height="40"/></code>
+<code><img src="./assets/logo-dedale.png" alt="dedale" width="40" height="40"/></code>
 
 <h3>😎 Fun fact</h3>
 
