@@ -3,6 +3,8 @@
 Voici un petit tour d'horizon de ce que je fais et ce que j'apporte....</h4>
 </br>
 
+<img src="./assets/logo-ludimuseo.png" alt="ludimuseo" width="150" height="90"/> <img src="./assets/logo-dedale.png" alt="dedale" width="200" height="90"/>
+
 <h3>🚀 Ce que je fais</h3>
 
 <h4>📊 Mes spécialités</h4>
@@ -39,11 +41,14 @@ L'impact positif : Rendre le numérique accessible à tous.</p>
 ## Outils
 
 <code><img src="./assets/vscode.png" alt="expo-icon" width="40" height="40"/></code>
+<code><img src="./assets/html.png" alt="html" width="40" height="40"/></code>
+<code><img src="./assets/css.png" alt="css" width="40" height="40"/></code>
 <code><img src="./assets/js.png" alt="javascript" width="40" height="40"/></code>
 <code><img src="./assets/React-icon.svg.png" alt="react" width="40" height="40"/></code>
 <code><img src="./assets/firebase.png" alt="firebase" width="40" height="40"/></code>
+<code><img src="./assets/mongo.png" alt="mongodb" width="40" height="40"/></code>
 <code><img src="./assets/node-js.png" alt="nodejs" width="40" height="40"/></code>
 <code><img src="./assets/express-js.png" alt="express" width="40" height="40"/></code>
 <code><img src="./assets/redux.svg" alt="redux" width="40" height="40"/></code>
-<code><img src="./assets/expo.png" alt="expo-icon" width="40" height="80"/></code>
+<code><img src="./assets/expo.png" alt="expo-icon" width="80" height="40"/></code>
 
