@@ -1,4 +1,4 @@
-<h2 align="center"> Salut, moi c'est Aurélien👋</h2>
+<h1 align="center"> Salut, moi c'est Aurélien👋</h1>
 <h4 align="center">Bienvenue sur mon GitHub ! Je suis développeur web et mobile, spécialisé dans la création d'applications performantes et accessibles.
 Voici un petit tour d'horizon de ce que je fais et ce que j'apporte....</h4>
 </br>
